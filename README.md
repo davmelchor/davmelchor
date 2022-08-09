@@ -1,4 +1,4 @@
-- 👋 Hola soy @davmelchor
+👋 Hola soy @davmelchor
 
 <!---
 davmelchor/davmelchor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
